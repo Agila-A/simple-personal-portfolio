@@ -1,27 +1,46 @@
-	Name: AGILA.A
-	Company: CODETECH IT SOLUTIONS
-	ID: CTO8DS1793
-	Domain: FULL STACK WEB DEVELOPMENT
-	Duration: 10th JUNE to 10th JULY 2024
-	Mentor: Muzammil
+# **Personal Portfolio Project**
 
-Overview of the project:
-The personal portfolio Project is a web application with a bckend to manage content. This project helped melearn HTML, CSS and Javascript, and a bacjend framework Express.js. Design a responsive frontend using HTML, CSS and Javascript. And to create a backend to maange projects.
+## **Project Information**
+- **Name:** AGILA.A
+- **Company:** CODETECH IT SOLUTIONS
+- **ID:** CTO8DS1793
+- **Domain:** FULL STACK WEB DEVELOPMENT
+- **Duration:** 10th JUNE to 10th JULY 2024
+- **Mentor:** Muzammil
 
-Objective:
-This portfolio website is designed to provide a comprehensive overview of my skills, experience, and projects. It includes sections for my bio, skills, projects, and contact information. The site is fully responsive, ensuring a seamless user experience across different devices and screen sizes.
+## **Overview**
+The **Personal Portfolio Project** is a web application with a backend to manage content. This project helped me learn **HTML**, **CSS**, **JavaScript**, and the backend framework **Express.js**. The main objective was to design a responsive frontend using **HTML**, **CSS**, and **JavaScript**, and to create a backend to manage and display various projects.
 
-Key Activities:
-•	Setting up the project structure using React for the front end and Node.js with Express for the back end
-•	Creating and styling the user interface for different components (home, projects, skills etc.)
-•	Integrating a rich text editor for creating and editing blog posts
-•	Setting up the database schema and models using MySQL
-•	Handling file uploads for post images
+## **Objective**
+This portfolio website provides a comprehensive overview of my skills, experience, and projects. It includes sections such as:
+- **Bio**
+- **Skills**
+- **Projects**
+- **Contact Information**
 
-Technologies used:
-Frontend: HTML, CSS, JavaScript and React
-Backend: Node.js, Express
-Database: MySQL
+The site is fully responsive, ensuring a seamless user experience across different devices and screen sizes.
 
-Usage:
-Navigate through the different sections of the portfolio to learn more about me, my skills, and my projects. Use the contact form to get in touch with me directly.
+## **Key Activities**
+- Setting up the project structure using **React** for the frontend and **Node.js** with **Express** for the backend.
+- Designing and styling the user interface for different components (Home, Projects, Skills, etc.).
+- Integrating a rich text editor for creating and editing blog posts.
+- Setting up the database schema and models using **MySQL**.
+- Handling file uploads for project images.
+
+## **Technologies Used**
+
+### **Frontend:**
+- **React**
+
+### **Backend:**
+- **Node.js**
+- **Express**
+
+### **Database:**
+- **MySQL**
+
+## **Usage**
+Navigate through the different sections of the portfolio to learn more about me, my skills, and my projects. The contact form allows users to reach out to me directly.
+
+
+
